@@ -4,7 +4,7 @@
   
 <!--intro -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/YingluDeng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YingluDeng&show_icons=true&theme=jolly"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YingluDeng&hide_progress=true&theme=jolly"/>
@@ -14,6 +14,7 @@
   
 <!--project-->
 ## 📌 Pinned Project
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=chatgpt_webapp_v1.0&theme=jolly)](https://github.com/YingluDeng/chatgpt_webapp_v1.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=portfolio_3d_react&theme=jolly)](https://github.com/YingluDeng/portfolio_3d_react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Bart_MGS&theme=jolly)](https://github.com/YingluDeng/Bart_MGS)
