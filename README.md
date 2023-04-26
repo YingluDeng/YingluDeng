@@ -10,18 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YingluDeng&hide_progress=true&theme=jolly"/>
 </div>
   
-   <br />
-  
-<!--project-->
-## 📌 Pinned Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=chatgpt_webapp_v1.0&theme=jolly)](https://github.com/YingluDeng/chatgpt_webapp_v1.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=portfolio_3d_react&theme=jolly)](https://github.com/YingluDeng/portfolio_3d_react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Bart_MGS&theme=jolly)](https://github.com/YingluDeng/Bart_MGS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Maze-Game-Project&theme=jolly)](https://github.com/YingluDeng/Maze-Game-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=6SenseCallPrediction&theme=jolly)](https://github.com/YingluDeng/6SenseCallPrediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Gitlet_proj&theme=jolly)](https://github.com/YingluDeng/Gitlet_proj)
-  
   
   <br />
   
