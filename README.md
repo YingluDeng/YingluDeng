@@ -1,19 +1,30 @@
 # Hi there, I'm Cecilia! 🤗
 ### 👩‍💻 Full Stack Software Engineer | 🤖 AI | 📸️ photography | 🎬 movies | 🎻 violin  
-
+  <br />
+  
 <!--intro -->
 
 <div align="center">
   <a href="https://github.com/YingluDeng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YingluDeng&show_icons=true&theme=jolly"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YingluDeng&hide_progress=true&theme=jolly"/>
-
 </div>
   
+   <br />
+  
+<!--project-->
+## 📌 Pinned Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=chatgpt_webapp_v1.0&theme=jolly)](https://github.com/YingluDeng/chatgpt_webapp_v1.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=portfolio_3d_react&theme=jolly)](https://github.com/YingluDeng/portfolio_3d_react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Bart_MGS&theme=jolly)](https://github.com/YingluDeng/Bart_MGS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Maze-Game-Project&theme=jolly)](https://github.com/YingluDeng/Maze-Game-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=6SenseCallPrediction&theme=jolly)](https://github.com/YingluDeng/6SenseCallPrediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YingluDeng&repo=Gitlet_proj&theme=jolly)](https://github.com/YingluDeng/Gitlet_proj)
+  
+  
+  <br />
+  
 <!--skills-->
-
-
-
 ## 💻 Tech Stack:
 
 ### LANGUAGES
@@ -74,11 +85,10 @@
 <a href="https://www.instagram.com/cec.land/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/YingluDeng" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
+  <br />
  
 
- 
- 
- 
+
  
 <!--
 **YingluDeng/YingluDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
