@@ -1,5 +1,5 @@
 # Hi there, I'm Cecilia! 🤗
-### 👩‍💻 Full Stack Software Engineer | Cloud DevOps Engineer| ☁️ AWS Cloud + Azure | 🤖 AI | 📸️ photography | 🎬 movies | 🎻 violin  
+### 👩‍💻 Full Stack Software Engineer | Cloud DevOps | ☁️ AWS Cloud + Azure | 🤖 AI | 📸️ photography | 🎬 movies | 🎻 violin  
   <br />
   
 <!--intro -->
